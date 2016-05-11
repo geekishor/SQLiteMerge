@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KISHOR-SURFACEP</Machine>
+    <WindowsUser>Kishor Bikram Oli</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>af8098db-c470-48c2-9e9e-5cda54bdac28</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\Debug\SQLiteMerge.exe">
+      <PackagePath>SQLiteMerge.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\Debug\SQLiteMerge.xr.xml">
+      <PackagePath>SQLiteMerge.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

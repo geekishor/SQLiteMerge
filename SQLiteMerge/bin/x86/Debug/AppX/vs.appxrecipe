@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KISHOR-SURFACEP</Machine>
+    <WindowsUser>Kishor Bikram Oli</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>af8098db-c470-48c2-9e9e-5cda54bdac28</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9B6E6ED03186834BA0B698E3F24F4ABA8315D6081F6D2D3F47EA8272691A3426</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>af8098db-c470-48c2-9e9e-5cda54bdac28_1.0.0.0_x86__x003cnfqv1qf0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>af8098db-c470-48c2-9e9e-5cda54bdac28_x003cnfqv1qf0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>af8098db-c470-48c2-9e9e-5cda54bdac28</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kishor Bikram Oli</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-11T02:58:41.834</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\x86\Debug\SQLiteMerge.exe">
+      <PackagePath>SQLiteMerge.exe</PackagePath>
+      <Modified>2016-05-11T03:10:16.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.12.1\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2016-04-13T10:38:35.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\x86\Debug\SQLiteMerge.xr.xml">
+      <PackagePath>SQLiteMerge.xr.xml</PackagePath>
+      <Modified>2016-05-11T02:58:41.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-11T02:58:41.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-11T03:10:16.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteMerge\SQLiteMerge\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-11T02:58:41.687</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

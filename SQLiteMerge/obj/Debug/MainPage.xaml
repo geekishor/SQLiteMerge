@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="SQLiteMerge.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SQLiteMerge"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF5A7FD6">
+        <Button x:ConnectionId='1' x:Name="btn1" Content="Create Database 1" HorizontalAlignment="Left" Margin="154,97,0,0" VerticalAlignment="Top" Width="440" Height="77"                   />
+        <Button x:ConnectionId='2' x:Name="btn2" Content="Create Database 2" HorizontalAlignment="Left" Margin="148,206,0,0" VerticalAlignment="Top" Width="446" Height="77"                   />
+        <Button x:ConnectionId='3' x:Name="btnMerge" Content="Merge Two Database" HorizontalAlignment="Left" Margin="154,316,0,0" VerticalAlignment="Top" Width="446" Height="77"                       />
+    </Grid>
+</Page>
+
